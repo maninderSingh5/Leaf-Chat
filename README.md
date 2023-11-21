@@ -1,2 +1,2 @@
 # Leaf-Chat
-Simple Chat Box
+A trivial Messaging Application
